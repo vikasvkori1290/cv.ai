@@ -1,4 +1,7 @@
 import React from 'react'
+// src/main.jsx or src/App.jsx
+import './index.css';
+
 import { Route,Routes } from 'react-router-dom'
 import Home from './pages/Home'
 import Dashboard from './pages/Dashboard'
